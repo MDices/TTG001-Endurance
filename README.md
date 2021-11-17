@@ -38,5 +38,5 @@ As tecnologias que foram utilizadas no desenvolvimento do projeto foram:
 
 ### APRENDIZADO EFETIVO
 Aprendizado sobre as regras de negócio da Oracle, também sobre a situação e orientações na pandemia. 
-<br>Aprofundamento de conhecimento sobre banco de dados, back-end e front-end.
+<br>Aprofundamento do conhecimento sobre banco de dados, a parte do back-end e front-end.
 <br> Vivência em time para desenvolver o sistema.
